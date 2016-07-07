@@ -14,12 +14,12 @@ Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me -->
 
 
 ## How this works
-This code represents the foundation of the wires that will come to be coded. If you want to alter general template, you can fork a version into your personal repo or request to contribute.
+This code represents the foundation of the wires that you will be creating. If you want to alter general template made from this code, you can fork a version into your personal repo or request to contribute!
 
-Otherwise, you can use the files within the wireframe-code file. The styles/js will be hosted at *{Link to hosting site}*, which will be linked into the index.html page in the wireframe-code file, and all you need to do is copy/paste elements from the elements.html page to build your responsive wires.
+Otherwise, you can use the files within the wireframe-base file. The styles/js will be hosted at **{Link to hosting site}**, which will be linked into the index.html page in the wireframe-base file, and all you need to do is copy/paste elements from the elements.html page to build your responsive wires.
 
 If you want to do this on your own using this code as a foundation, follow the steps below to set up!
-
+ 
 
 
 ## Let's Get Started!
