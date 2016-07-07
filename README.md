@@ -1,4 +1,4 @@
-# Welcome to your Sass Boilerplate
+# Welcome to your Responsive Material Design Wireframe Boilerplate
 
 <!-- Created by [Joe Toscano](http://www.realjoet.me), UX Designer & Engineer. 
 Find me @realjoet across just about any relevant social media. 
